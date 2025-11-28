@@ -1,0 +1,48 @@
+body {
+    font-family:Garamond, Georgia,serif;
+    background:#ddf6fd ;
+}
+
+
+.card{
+width: 1200px;
+background-color:#ffff ;
+padding: 2%;
+}
+
+.title {
+    font-size: 100px;
+    text-align: center;
+    margin: 10px 0 0 0;
+    background-color: #7bb4ff;
+}
+
+.subtitle {
+    color: #FFF;
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    background-color: #1f53ff;
+}
+
+ul{
+    font-size: 35px;
+    margin: 20 0;
+    
+}
+
+li{
+    font-size: 30px;
+    margin: 10px 20px;
+    padding: 10px;
+    background-color: #f8edef;
+}
+
+button{
+    display: block;
+    background-color:black;
+    color: white;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+}
